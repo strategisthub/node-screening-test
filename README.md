@@ -1,20 +1,17 @@
-### Hotels Search End Point:
+## Hotels Search End Point:
 Create a BackEnd server using NodeJS/ExpressJS for creating Restful APIs for hotels.
 
 
-APIs to create for hotels:
-Create
-Update
-Edit
-Delete
-FindOne
-findAll
+### APIs to create for hotels:
+* Create
+* Update
+* Edit
+* Delete
+* FindOne based on hote slug or id.
+* findAll
 
 
-findAll should be implemented in following way:
-```
-GET /hotels/find
-```
+### findAll API should accept following query paramters to apply as filters.
 
 ### Query Params:
  
@@ -26,7 +23,7 @@ GET /hotels/find
  * `sort_order`: Order of the sorting `asc/desc`
 
 
-### Response: 
+### Expected Response find API:
 
  ```
   {
