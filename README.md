@@ -30,3 +30,7 @@ Create a BackEnd server using NodeJS/ExpressJS and MongoDB for creating Restful 
     "hotels": [ //  Array of hotels]
   }
  ```
+
+Onces done with the test create github repository and send link of that repository at farhan@strategisthub.com.
+
+_Note:_ Use github from start as would like to see your usage of git and also repo should have proper local setup documentation.
