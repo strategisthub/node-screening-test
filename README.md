@@ -1,4 +1,4 @@
-## Hotels Search End Point:
+## Hotels Search APIs:
 Create a BackEnd server using NodeJS/ExpressJS and MongoDB for creating Restful APIs for hotels.
 
 
